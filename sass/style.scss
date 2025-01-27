@@ -1,0 +1,39 @@
+/* sass --watch sass/style.scss css/style.css */
+
+/* RESET */
+
+@use "resets";
+
+/* NAVEGACION */
+
+@use "nav";
+
+/* BODY */
+
+@use "index";
+
+/* CONTACTO */
+
+@use "contacto";
+
+/* PEDIDOS */
+
+@use "pedidos";
+
+
+/* GALERIA PRODUCTOS */
+
+@use "productos";
+
+/*  CARRITO  */
+
+@use "carrito";
+
+/* FOOTER */
+
+@use "footer";
+
+
+/* version mobile */
+
+@use "responsive";
